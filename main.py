@@ -7,6 +7,7 @@ class MainApp:
     def __init__(self):
         self.app = QApplication(sys.argv)
         self.start_challenge_mode()
+        self.challenge_app.show_welcome_screen()
     
     def start_challenge_mode(self):
         self.challenge_app = ChallengeQuizApp()

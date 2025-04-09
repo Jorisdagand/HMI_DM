@@ -2,7 +2,7 @@
     "history": {
       "easy": [
         {
-          "question": "In What year did World War I?",
+          "question": "In What year did World War I begun?",
           "options": ["1914", "1918", "1939", "1945"],
           "correct_answer": "1914"
         },
@@ -147,13 +147,8 @@
           "correct_answer": "The redrawing of European borders"
         },
         {
-          "question": "Who was the leader of the Bolshevik Party during the Russian Revolution?",
-          "options": ["The death of Charles II of Spain", "The Treaty of Utrecht", "The accession of Philip V to the throne", "The Battle of Blenheim"],
-          "correct_answer": "The death of Charles II of Spain"
-        },
-        {
           "question": "who was responsible of the bolchevik revolution in russia in 1917",
-          "options": ["Leon Trotsky", "George Staline", "Vladimir Lenin", "Mikhail Gorbachev"],
+          "options": ["Leon Trotsky", "Joseph Staline", "Vladimir Lenin", "Mikhail Gorbachev"],
           "correct_answer": "Vladimir Lenin"
         },
         {
