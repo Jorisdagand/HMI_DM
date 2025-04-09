@@ -50,7 +50,7 @@ Questions, answer options, and correct answers are stored in an easily modifiabl
 
 ```bash
 # Clone the repository
-git clone (https://github.com/Jorisdagand/HMI_DM.git
+git clone https://github.com/Jorisdagand/HMI_DM.git
 cd hmi_dm
 
 # Install dependencies
