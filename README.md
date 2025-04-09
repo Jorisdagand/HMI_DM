@@ -1,9 +1,9 @@
 # 🧠 General Knowledge Quiz
 
 ## 📚 Overview  
-**General Knowledge Quiz** is an interactive application developed in **Python with PyQt5**, designed to test users' knowledge in various domains such as History, Geography, and General Culture.  
+**General Knowledge Quiz** is an interactive application developed in **Python with PyQt5**, designed to test users' knowledge in various domains such as History, Geography, and Sports.  
 
-This application was created as part of an academic assignmentof in the *"Applications with GUIs"* course.
+This application was created as part of an academic assignment.
 
 ---
 
@@ -26,7 +26,7 @@ This application was created as part of an academic assignmentof in the *"Applic
 
 #### Challenge Mode *(additional feature)*
 - Possible answers with multiple hint levels:
-  - Direct answer: 5 points
+  - Direct input answer: 5 points
   - 4-option hint: 3 points
   - 2-option hint: 1 point
 - Dynamic scoring system for more challenge
@@ -72,12 +72,6 @@ hmi_dm/
 └── src/
     └── quiz_data.json    # JSON question file
 ```
-
----
-
-## 🧪 Additional Implemented Feature (bonus)
-- **Challenge** mode with dynamic scoring system and hint choices
-- Modular architecture to facilitate adding new modes or categories
 
 ---
 
