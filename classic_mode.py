@@ -214,6 +214,7 @@ class QuizScreen(QWidget):
         self.current_question_idx = 0
         self.score = 0
         self.option_buttons = []
+        self.setFocusPolicy(Qt.StrongFocus)
         self.init_ui()
         self.load_question()
     
@@ -340,6 +341,11 @@ class QuizScreen(QWidget):
             self.load_question()
         else:
             self.on_finish(self.score, len(self.questions))
+
+    def keyPressEvent(self, event):
+        if event.key() == Qt.Key_Return or event.key() == Qt.Key_Enter:
+            if self.next_button.isVisible():
+                self.next_question()
 
 
 class ResultScreen(QWidget):

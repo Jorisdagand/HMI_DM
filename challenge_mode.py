@@ -410,6 +410,7 @@ class ChallengeQuizScreen(QWidget):
         self.score = 0
         self.option_buttons = []
         self.current_mode = "write"  
+        self.setFocusPolicy(Qt.StrongFocus)
         self.init_ui()
         self.load_question()
     
@@ -466,7 +467,7 @@ class ChallengeQuizScreen(QWidget):
         main_layout.addLayout(header_layout)
         main_layout.addSpacing(20)
         
-        # Carte de question
+        
         question_card = QFrame()
         question_card.setStyleSheet(AppStyles.get_card_style())
         AppStyles.apply_shadow_effect(question_card)
@@ -481,7 +482,7 @@ class ChallengeQuizScreen(QWidget):
         card_layout.addWidget(self.question_label)
         card_layout.addSpacing(20)
         
-        # Mode d'entrée directe
+        
         self.direct_input_widget = QWidget()
         direct_input_layout = QVBoxLayout()
         
@@ -498,7 +499,7 @@ class ChallengeQuizScreen(QWidget):
         
         self.direct_input_widget.setLayout(direct_input_layout)
         
-        # Mode 4 options
+        
         self.four_options_widget = QWidget()
         four_options_layout = QVBoxLayout()
         four_options_layout.setSpacing(10)
@@ -514,7 +515,7 @@ class ChallengeQuizScreen(QWidget):
         self.four_options_widget.setLayout(four_options_layout)
         self.four_options_widget.setVisible(False)
         
-        # Mode 2 options
+        
         self.two_options_widget = QWidget()
         two_options_layout = QVBoxLayout()
         two_options_layout.setSpacing(10)
@@ -652,7 +653,7 @@ class ChallengeQuizScreen(QWidget):
         if self.current_mode == "four_options":
             correct_idx = self.correct_four_index
             options = self.option_buttons
-        else:  # two_options
+        else:  
             correct_idx = self.correct_two_index
             options = self.two_option_buttons
         
@@ -681,6 +682,11 @@ class ChallengeQuizScreen(QWidget):
             self.load_question()
         else:
             self.on_finish(self.score, len(self.questions) * 5)  
+
+    def keyPressEvent(self, event):
+        if event.key() == Qt.Key_Return or event.key() == Qt.Key_Enter:
+            if self.next_button.isVisible():
+                self.next_question()
 
 
 class ResultScreen(QWidget):
