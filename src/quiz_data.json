@@ -1,0 +1,577 @@
+{
+    "history": {
+      "easy": [
+        {
+          "question": "In What year did World War I?",
+          "options": ["1914", "1918", "1939", "1945"],
+          "correct_answer": "1914"
+        },
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+          "correct_answer": "George Washington"
+        },
+        {
+          "question": "What civilization built the Giza pyramids?",
+          "options": ["Egyptians", "Greeks", "Romans", "Mayas"],
+          "correct_answer": "Egyptians"
+        },
+        {
+          "question": "Who was the first man to walk on the moon?",
+          "options": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Yuri Gagarin"],
+          "correct_answer": "Neil Armstrong"
+        },
+        {
+          "question": "What was the name of the ship that sank after hitting an iceberg in 1912?",
+          "options": ["Lusitania", "Titanic", "Britannic", "Olympic"],
+          "correct_answer": "Titanic"
+        },
+        {
+          "question": "Who was the famous queen of Egypt known for her beauty?",
+          "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Tutankhamun"],
+          "correct_answer": "Cleopatra"
+        },
+        {
+          "question": "What event started the American Civil War?",
+          "options": ["The election of Abraham Lincoln", "The signing of the Declaration of Independence", "The attack on Fort Sumter", "The Boston Tea Party"],
+          "correct_answer": "The attack on Fort Sumter"
+        },
+        {
+          "question": "Who was the leader of the Soviet Union during World War II?",
+          "options": ["Leon Trotsky", "Vladimir Lenin", "Nikita Khrushchev", "Joseph Stalin"],
+          "correct_answer": "Joseph Stalin"
+        },
+        {
+          "question": "What was the name of the first successful English colony in America?",
+          "options": ["Jamestown", "Plymouth", "Roanoke", "Savannah"],
+          "correct_answer": "Jamestown"
+        },
+        {
+          "question": "Who wrote the Declaration of Independence?",
+          "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+          "correct_answer": "Thomas Jefferson"
+        },
+        {
+          "question": "In which year did the Berlin Wall fall?",
+          "options": ["1985", "1987", "1989", "1991"],
+          "correct_answer": "1989"
+        }
+
+      ],
+      "medium": [
+        {
+          "question": "In what year did the French Revolution begin?",
+          "options": ["1789", "1792", "1799", "1804"],
+          "correct_answer": "1789"
+        },
+        {
+          "question": "Which event marked the beginning of the Great Depression in the United States?",
+          "options": ["The stock market crash of 1929", "The Dust Bowl", "The New Deal", "World War II"],
+          "correct_answer": "The stock market crash of 1929"
+        },
+        {
+          "question": "Which battle in 1815 marked Napoleon Bonaparte's final defeat?",
+          "options": ["Waterloo", "Austerlitz", "Trafalgar", "Leipzig"],
+          "correct_answer": "Waterloo"
+        },
+        {
+          "question": "What was the primary cause of the French Revolution?",
+          "options": ["Economic hardship", "Monarchical absolutism", "Social inequality", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": " Who was the first emperor of the Roman Empire?",
+          "options": ["Julius Caesar", "Augustus", "Nero", "Tiberius"],
+          "correct_answer": "Augustus"
+        },
+        {
+          "question": "What was the significance of the Magna Carta, signed in 1215?",
+          "options": ["It established the principle of due process", "It ended the feudal system", "It granted women the right to vote", "It created the English Parliament"],
+          "correct_answer": "It established the principle of due process"
+        },
+        {
+          "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+          "options": ["Joseph Stalin", "Leonid Brezhnev", "Nikita Khrushchev", "Mikhail Gorbachev"],
+          "correct_answer": "Nikita Khrushchev"
+        },
+        {
+          "question": "What was the main purpose of the Berlin Conference of 1884-1885?",
+          "options": ["To divide Africa among European powers", "To establish trade routes", "To end the slave trade", "To promote African independence"],
+          "correct_answer": "To divide Africa among European powers"
+        },
+        {
+          "question": "Which battle is considered the turning point of the American Civil War?",
+          "options": ["Battle of Gettysburg", "Battle of Antietam", "Battle of Vicksburg", "Battle of Bull Run"],
+          "correct_answer": "Battle of Gettysburg"
+        },
+        {
+          "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+          "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+          "correct_answer": "Amelia Earhart"
+        },
+        {
+          "question": "What was the primary goal of the Marshall Plan after World War II?",
+          "options": ["To rebuild European economies", "To establish NATO", "To promote communism", "To create the United Nations"],
+          "correct_answer": "To rebuild European economies"
+        },
+        {
+          "question": "Which treaty ended World War I?",
+          "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Trianon", "Treaty of Brest-Litovsk"],
+          "correct_answer": "Treaty of Versailles"
+        }
+      ],
+      "hard": [
+        {
+          "question": "In which year was the Treaty of Westphalia signed, marking the end of the Thirty Years' War?",
+          "options": ["1648", "1713", "1815", "1919"],
+          "correct_answer": "1648"
+        },
+        {
+          "question": "Who was the first emperor of the Holy Roman Empire?",
+          "options": ["Charlemagne", "Otto I", "Frederick Barbarossa", "Charles V"],
+          "correct_answer": "Charlemagne"
+        },
+        {
+          "question": "What event triggered the War of the Spanish Succession?",
+          "options": ["The death of Charles II of Spain", "The Treaty of Utrecht", "The accession of Philip V to the throne", "The Battle of Blenheim"],
+          "correct_answer": "The death of Charles II of Spain"
+        },
+        {
+          "question": " Which empire was known for its extensive road system and the use of the quipu for record-keeping?",
+          "options": ["Roman Empire", "Inca Empire", "Ottoman Empire", "Mongol Empire"],
+          "correct_answer": "Inca Empire"
+        },
+        {
+          "question": "What was the main outcome of the Congress of Vienna in 1815?",
+          "options": ["The establishment of the League of Nations", "The redrawing of European borders", "The end of the Napoleonic Wars", "The unification of Germany"],
+          "correct_answer": "The redrawing of European borders"
+        },
+        {
+          "question": "Who was the leader of the Bolshevik Party during the Russian Revolution?",
+          "options": ["The death of Charles II of Spain", "The Treaty of Utrecht", "The accession of Philip V to the throne", "The Battle of Blenheim"],
+          "correct_answer": "The death of Charles II of Spain"
+        },
+        {
+          "question": "who was responsible of the bolchevik revolution in russia in 1917",
+          "options": ["Leon Trotsky", "George Staline", "Vladimir Lenin", "Mikhail Gorbachev"],
+          "correct_answer": "Vladimir Lenin"
+        },
+        {
+          "question": " What was the primary cause of the Opium Wars in the 19th century?",
+          "options": ["Religious conflicts", "Territorial disputes", "Cultural differences", "Trade imbalances"],
+          "correct_answer": "Trade imbalances"
+        },
+        {
+          "question": "Which battle is considered the turning point of the Pacific Theater in World War II?",
+          "options": ["Battle of Midway", "Battle of Iwo Jima", "Battle of Guadalcanal", "Battle of Leyte Gulf"],
+          "correct_answer": "Battle of Midway"
+        },
+        {
+          "question": "What was the significance of the Nuremberg Trials after World War II?",
+          "options": ["To prosecute war crimes", "To establish the United Nations", "To promote peace treaties", "To divide Germany"],
+          "correct_answer": "To prosecute war crimes"
+        },
+        {
+          "question": "Which document declared the independence of the United States from British rule?",
+          "options": ["The Constitution", "The Bill of Rights", "The Declaration of Independence", "The Articles of Confederation"],
+          "correct_answer": "The Declaration of Independence"
+        },
+        {
+          "question": " What was the primary purpose of the Berlin Wall when it was constructed in 1961?",
+          "options": ["To prevent East Germans from fleeing to West Berlin", "To separate East and West Berlin for trade", "To protect against NATO invasion", "To promote tourism in East Berlin"],
+          "correct_answer": "To prevent East Germans from fleeing to West Berlin"
+        },
+        {
+          "question": "Which treaty ended the Mexican-American War in 1848?",
+          "options": ["Treaty of Guadalupe Hidalgo", "Treaty of Paris", "Treaty of Trianon", "Treaty of Versailles"],
+          "correct_answer": "Treaty of Guadalupe Hidalgo"
+        }
+      ]
+    },
+    "geography": {
+      "easy": [
+        {
+          "question": "What is the capital of France?",
+          "options": ["Paris", "Lyon", "Marseille", "Toulouse"],
+          "correct_answer": "Paris"
+        },
+        {
+          "question": "Which is the largest ocean in the world?",
+          "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+          "correct_answer": "Pacific Ocean"
+        },
+        {
+          "question": "What is the longest river in Europe?",
+          "options": ["The Seine", "The Danube", "The Rhine", "The Volga"],
+          "correct_answer": "The Volga"
+        },
+        {
+          "question": " Which country is known as the Land of the Rising Sun?",
+          "options": ["China", "Japan", "South Korea", "Thailand"],
+          "correct_answer": "Japan"
+        },
+        {
+          "question": "What is the capital city of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correct_answer": "Canberra"
+        },
+        {
+          "question": " Which continent is known as the Dark Continent?",
+          "options": ["Asia", "Africa", "Australia", "South America"],
+          "correct_answer": "Africa"
+        },
+        {
+          "question": "What is the smallest country in the world?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correct_answer": "Vatican City"
+        },
+        {
+          "question": "Which mountain range separates Europe from Asia?",
+          "options":  ["The Alps", "The Himalayas", "The Ural Mountains", "The Andes"],
+          "correct_answer": "The Ural Mountains"
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+          "correct_answer": "Ottawa"
+        },
+        {
+          "question": "Which desert is the largest in the world?",
+          "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+          "correct_answer": "Sahara Desert"
+        },
+        {
+          "question": "Which river is the longest in the world?",
+          "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+          "correct_answer": "Nile River"
+        },
+        {
+          "question": "What is the capital of Italy?",
+          "options": ["Rome", "Venice", "Florence", "Milan"],
+          "correct_answer": "Rome"
+        }
+      ],
+      "medium": [
+        {
+          "question": "What is Africa's largest country by area?",
+          "options": ["Algeria", "Democratic Republic of Congo", "Sudan", "Libya"],
+          "correct_answer": "Algeria"
+        },
+        {
+          "question": "In which country is Lake Titicaca located?",
+          "options": ["Peru and Bolivia", "Chile and Argentina", "Ecuador and Colombia", "Brazil and Venezuela"],
+          "correct_answer": "Peru and Bolivia"
+        },
+        {
+          "question": "What is the largest country in the world by land area?",
+          "options": ["Canada", "China", "Russia", "United States"],
+          "correct_answer": "Russia"
+        },
+        {
+          "question": "Which river flows through the Grand Canyon?",
+          "options":["Colorado River", "Missouri River", "Rio Grande", "Columbia River"],
+          "correct_answer": "Colorado River"
+        },
+        {
+          "question": "What is the capital of Egypt?",
+          "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+          "correct_answer": "Cairo"
+        },
+        {
+          "question": "Which mountain is the highest in the world?",
+          "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+          "correct_answer": "Mount Everest"
+        },
+        {
+          "question": "What is the longest river in South America?",
+          "options": ["Amazon River", "Paraná River", "Orinoco River", "São Francisco River"],
+          "correct_answer": "Amazon River"
+        },
+        {
+          "question": "Which desert is the largest hot desert in the world?",
+          "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+          "correct_answer": "Sahara Desert"
+        },
+        {
+          "question": "Which continent is the least populated?",
+          "options":  ["Africa", "Antarctica", "Australia", "South America"],
+          "correct_answer": "Antarctica"
+        },
+        {
+          "question": "What is the official language of Brazil?",
+          "options": ["Spanish", "Portuguese", "English", "French"],
+          "correct_answer": "Portuguese"
+        },
+        {
+          "question": "Which country has the most natural lakes?",
+          "options": ["Canada", "United States", "Russia", "India"],
+          "correct_answer": "Canada"
+        },
+        {
+          "question": "Which country is known as the Land of a Thousand Lakes?",
+          "options": ["Finland", "Sweden", "Norway", "Canada"],
+          "correct_answer": "Finland"
+        }
+      ],
+      "hard": [
+        {
+          "question": "What is the capital of Bhutan?",
+          "options": ["Thimphu", "Kathmandu", "Dhaka", "Lhasa"],
+          "correct_answer": "Thimphu"
+        },
+        {
+          "question": "What is the deepest point in the oceans",
+          "options": ["The Mariana Trench", "The Java Trough", "The Kermadec pit", "The Peru-Chile trench"],
+          "correct_answer": "The Mariana Trench"
+        },
+        {
+          "question": "In which country is the Gobi Desert located?",
+          "options": ["Mongolia and China", "Kazakhstan and Russia", "Iran and Afghanistan", "Pakistan and India"],
+          "correct_answer": "Mongolia and China"
+        },
+        {
+          "question": "Which is the longest river in Asia?",
+          "options": ["Yangtze River", "Yellow River", "Mekong River", "Ganges River"],
+          "correct_answer": "Yangtze River"
+        },
+        {
+          "question": "What is the highest capital city in the world?",
+          "options":  ["Bogotá", "Quito", "Sucre", "La Paz"],
+          "correct_answer": "La Paz"
+        },
+        {
+          "question": "Which country has the largest population in Africa?",
+          "options": ["Nigeria", "Ethiopia", "Egypt", "South Africa"],
+          "correct_answer": "Nigeria"
+        },
+        {
+          "question": "Which desert is the largest in the world?",
+          "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+          "correct_answer": "Antarctic Desert"
+        },
+        {
+          "question": "What is the capital of Kazakhstan?",
+          "options":  ["Astana", "Almaty", "Tashkent", "Bishkek"],
+          "correct_answer": "Astana"
+        },
+        {
+          "question": "Which country is both an island and a continent?",
+          "options": ["Australia", "Greenland", "New Zealand", "Iceland"],
+          "correct_answer": "Australia"
+        },
+        {
+          "question": "What is the largest island in the Mediterranean Sea?",
+          "options": ["Sicily", "Sardinia", "Cyprus", "Crete"],
+          "correct_answer": "Sicily"
+        },
+        {
+          "question": "Which river is known as the Yellow River?",
+          "options": ["Yangtze River", "Huang He", "Mekong River", "Ganges River"],
+          "correct_answer": "Huang He"
+        },
+        {
+          "question": "What is the capital of Iceland?",
+          "options": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+          "correct_answer": "Reykjavik"
+        },
+        {
+          "question": "Which country has the most UNESCO World Heritage Sites?",
+          "options":  ["Italy", "China", "India", "Spain"],
+          "correct_answer": "Italy"
+        }
+      ]
+    },
+    "sports": {
+      "easy": [
+        {
+          "question": "How many players are there in a standard soccer team on the field?",
+          "options": ["11", "9", "10", "12"],
+          "correct_answer": "11"
+        },
+        {
+          "question": "What sport uses a racket?",
+          "options": ["Tennis", "Football", "Basketball", "Handball"],
+          "correct_answer": "Tennis"
+        },
+        {
+          "question": "How long does a soccer match last (regulation time)?",
+          "options": ["90 minutes", "80 minutes", "100 minutes", "120 minutes"],
+          "correct_answer": "90 minutes"
+        },
+        {
+          "question": "What is the maximum score in a single game of bowling?",
+          "options": ["200", "250", "300", "350"],
+          "correct_answer": "300"
+        },
+        {
+          "question": "Which sport is known as the king of sport?",
+          "options": ["Basketball", "Soccer", "Cricket", "Baseball"],
+          "correct_answer": "Soccer"
+        },
+        {
+          "question": "In which sport do teams compete for the Stanley Cup?",
+          "options": ["Football", "Basketball", "Hockey", "Baseball"],
+          "correct_answer": "Hockey"
+        },
+        {
+          "question": "What is the distance of a marathon in miles?",
+          "options": ["24", "25", "26.2", "27"],
+          "correct_answer": "26.2"
+        },
+        {
+          "question": "In which sport do players score points by shooting a ball through a hoop?",
+          "options": ["Soccer", "Basketball", "Volleyball", "Rugby"],
+          "correct_answer": "Basketball"
+        },
+        {
+          "question": "Which country hosted the 2016 Summer Olympics?",
+          "options": ["China", "Brazil", "United States", "Russia"],
+          "correct_answer":  "Brazil"
+        },
+        {
+          "question": "What is the term for a score of three points in basketball?",
+          "options": ["Free throw", "Three-pointer", "Field goal", "Layup"],
+          "correct_answer": "Three-pointer"
+        },
+        {
+          "question": "Which sport involves a bat and a ball and is played on a diamond-shaped field?",
+          "options": ["Cricket", "Baseball", "Softball", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the name of the championship game in American football?",
+          "options": ["World Series", "Super Bowl", "Stanley Cup", "Finals"],
+          "correct_answer": "Super Bowl"
+        }
+      ],
+      "medium": [
+        {
+          "question": "In which year were the first modern Olympic Games held?",
+          "options": ["1896", "1900", "1924", "1936"],
+          "correct_answer": "1896"
+        },
+        {
+          "question": "How many Formula 1 World Championship titles has Lewis Hamilton won?",
+          "options": ["7", "5", "6", "8"],
+          "correct_answer": "7"
+        },
+        {
+          "question": "In what sport is the term 'strike' used?",
+          "options": ["Bowling", "Baseball", "Cricket", "Golf"],
+          "correct_answer": "Bowling"
+        },
+        {
+          "question": "Who holds the record for the most goals scored in a single World Cup tournament?",
+          "options": ["Pele", "Diego Maradona", "Just Fontaine", "Ronaldo"],
+          "correct_answer": "Just Fontaine"
+        },
+        {
+          "question": "Which country won the FIFA World Cup in 2014?",
+          "options": ["Brazil", "Germany", "Argentina", "Italy"],
+          "correct_answer": "Germany"
+        },
+        {
+          "question": " What is the maximum number of players allowed on a rugby union team?",
+          "options":  ["13", "15", "11", "7"],
+          "correct_answer": "15"
+        },
+        {
+          "question": "In which sport is the term home run used?",
+          "options": ["Cricket", "Baseball", "Rugby", "Soccer"],
+          "correct_answer": "Baseball"
+        },
+        {
+          "question": "Who is known as the Fastest Man in the World after winning multiple Olympic gold medals in sprinting?",
+          "options": ["Usain Bolt", "Carl Lewis", "Jesse Owens", "Mo Farah"],
+          "correct_answer": "Usain Bolt"
+        },
+        {
+          "question": "What is the length of an Olympic swimming pool in meters?",
+          "options": ["25", "50", "100", "75"],
+          "correct_answer": "50"
+        },
+        {
+          "question": "Which tennis tournament is considered the oldest in the world?",
+          "options": ["US Open", "French Open", "Wimbledon", "Australian Open"],
+          "correct_answer": "Wimbledon"
+        },
+        {
+          "question": "In which sport do players use a puck?",
+          "options": ["Soccer", "Hockey", "Basketball", "Lacrosse"],
+          "correct_answer": "Hockey"
+        },
+        {
+          "question": "What is the primary governing body for international soccer?",
+          "options": ["FIFA", "UEFA", "CONCACAF", "NCAA"],
+          "correct_answer": "FIFA"
+        },
+        {
+          "question": "Which country is known for the sport of sumo wrestling?",
+          "options": ["China", "Japan", "Korea", "Mongolia"],
+          "correct_answer": "Japan"
+        }
+      ],
+      "hard": [
+        {
+          "question": "Who holds the world record in the men's pole vault?",
+          "options": ["Armand Duplantis", "Renaud Lavillenie", "Sergey Bubka", "Steve Hooker"],
+          "correct_answer": "Armand Duplantis"
+        },
+        {
+          "question": "In which sport can you perform an 'Ippon'??",
+          "options": ["Judo", "Karaté", "Taekwondo", "Fencing"],
+          "correct_answer": "Judo"
+        },
+        {
+          "question": "Which team has won the Davis Cup in tennis the most times?",
+          "options": ["United States", "Australia", "Spain", "Great Britain"],
+          "correct_answer": "United States"
+        },
+        {
+          "question": "Who was the first athlete to win five gold medals in a single Olympic Games?",
+          "options": ["Mark Spitz", "Michael Phelps", "Carl Lewis", "Jesse Owens"],
+          "correct_answer": "Mark Spitz"
+        },
+        {
+          "question": "In which year did the first Rugby World Cup take place?",
+          "options": ["1987", "1991", "1995", "1999"],
+          "correct_answer": "1987"
+        },
+        {
+          "question": "Which country has won the most FIFA Women's World Cup titles?",
+          "options": ["United States", "Germany", "Norway", "Japan"],
+          "correct_answer": "United States"
+        },
+        {
+          "question": "What is the only country to have played in every World Cup since the tournament's inception in 1930?",
+          "options": ["Brazil", "Germany", "Italy", "Argentina"],
+          "correct_answer": "Brazil"
+        },
+        {
+          "question": "Who holds the record for the most home runs in a single MLB season?",
+          "options": ["Barry Bonds", "Mark McGwire", "Sammy Sosa", "Babe Ruth"],
+          "correct_answer": "Barry Bonds"
+        },
+        {
+          "question": "In which sport would you perform a 'slam dunk'?",
+          "options":  ["Basketball", "Volleyball", "Rugby", "Soccer"],
+          "correct_answer": "Basketball"
+        },
+        {
+          "question": " Which athlete is known for the phrase 'Float like a butterfly, sting like a bee'?",
+          "options": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "George Foreman"],
+          "correct_answer": "Muhammad Ali"
+        },
+        {
+          "question": "Which country hosted the 2008 Summer Olympics?",
+          "options": ["Beijing", "London", "Athens", "Sydney"],
+          "correct_answer": "Beijing"
+        },
+        {
+          "question": "Who is the only player to have won the FIFA World Cup three times?",
+          "options": ["Pele", "Diego Maradona", "Zinedine Zidane", "Lionel Messi"],
+          "correct_answer": "Pele"
+        }
+      ]
+    }
+  }
