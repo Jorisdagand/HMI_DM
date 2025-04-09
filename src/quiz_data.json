@@ -2,7 +2,7 @@
     "history": {
       "easy": [
         {
-          "question": "In What year did World War I begun?",
+          "question": "In What year did World War I begin?",
           "options": ["1914", "1918", "1939", "1945"],
           "correct_answer": "1914"
         },
